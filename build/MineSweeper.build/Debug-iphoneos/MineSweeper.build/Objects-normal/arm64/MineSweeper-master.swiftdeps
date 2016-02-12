@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "c0b969c3f2927ca5ff508c1cf05075f5"
+build_time: [508551569, 745326000]
+inputs:
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MainViewController.swift": [508551052, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MSConstants.swift": [508480215, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MSCollectionViewCell.swift": [508548825, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/AppDelegate.swift": [508455259, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MSLongPressGesture.swift": [508493596, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/ViewController.swift": [508455259, 0]

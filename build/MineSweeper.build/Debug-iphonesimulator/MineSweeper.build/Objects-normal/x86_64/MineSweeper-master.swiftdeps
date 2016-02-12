@@ -1,0 +1,11 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "d03d7bc622326fba2afda1eefe34e233"
+build_time: [508492009, 482641000]
+inputs:
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MSCollectionViewCell.swift": [508489408, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/AppDelegate.swift": [508455259, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MSConstants.swift": [508480215, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MainViewController.swift": [508492009, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/ArrayExtensions.swift": [508460665, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/MSMineData.swift": [508458345, 0]
+  "/Users/yuxiangtang1/Desktop/MineSweeper/MineSweeper/ViewController.swift": [508455259, 0]
