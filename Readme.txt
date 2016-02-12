@@ -1,4 +1,4 @@
-Readme
+README
 
 1. The game board is 8x8, there are 10 hidden mines.
 2. Each time a single tap on the tile will uncover it.
